@@ -1,6 +1,10 @@
 {
   "GuideData": {
     "AdsController": {
+	    
+	                "BannerAd": "",
+			"InterstitialAd": "",
+			"NativeAd": "",
 
 			"BannerAdsAc1": "max",
 			"BannerAdsAc2": "admob",
