@@ -6,9 +6,9 @@
 			"InterstitialAd": "",
 			"NativeAd": "",
 
-			"BannerAdsAc1": "max",
+			"BannerAdsAc1": "facebook",
 			"BannerAdsAc2": "admob",
-			"BannerAdsAc3": "facebook",
+			"BannerAdsAc3": "max",
 
 			"InterAdsAc0": "facebook",
 			"InterAdsAc1": "admob",
