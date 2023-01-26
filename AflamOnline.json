@@ -16,9 +16,9 @@
 			"InterAdsAc3": "admob",
 
 			"NativeAdsAc1": "max",
-			"NativeAdsAc2": "admob",
-			"NativeAdsAc3": "facebook",
-			"NativeAdsAc4": "admob",
+			"NativeAdsAc2": "facebook",
+			"NativeAdsAc3": "admob",
+			"NativeAdsAc4": "max",
 			"NativeAdsAc5": "facebook",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
